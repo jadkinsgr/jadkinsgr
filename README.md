@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jadkinsgr
 - 👀 I’m interested in Python, React, GO lang and SQL
-- 🌱 I’m currently learning #100daysofCode in React - Also getting started with tools like Framer!
+- 🌱 I’m currently learning #100daysofCode in React and actively contribute to open source products
 - 💞️ I’m looking to collaborate on database design projects and ongoing requirements like CMS price transparancy
 - 📫 How to reach me: business.joshadkins@gmail.com
 
